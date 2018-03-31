@@ -32,7 +32,8 @@ module.exports = [
   {
     name: 'second',
     symbol: 's',
-    value: '1'
+    value: '1',
+    base: true
   },
   {
     name: 'minute',

@@ -17,7 +17,8 @@ module.exports = [
   {
     name: 'meter',
     symbol: 'm',
-    value: '1'
+    value: '1',
+    base: true
   },
   {
     name: 'kilometer',

@@ -2,7 +2,8 @@ module.exports = [
   {
     name: 'gram',
     symbol: 'g',
-    value: '1'
+    value: '1',
+    base: true
   },
   {
     name: 'kilogram',

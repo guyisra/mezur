@@ -10,7 +10,7 @@ module.exports = unitTypes => {
       this.name = name
 
       unitTypes.forEach(klassTo => {
-        if (klassTo.name === 'second') {
+        if (klassTo.base) {
           return
         }
         this.constructor.prototype[`in${capitalize(klassTo.name)}s`] = function() {
