@@ -1,4 +1,4 @@
-const time = require('.')
+const time = require('./time')
 
 describe('mezur/time', () => {
   it('converts from milliseconds to seconds', () => {

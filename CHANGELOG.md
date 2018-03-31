@@ -3,3 +3,7 @@
 
 - 1.0.1
   -  Add base key to base units
+
+- 2.0.0
+  - required types (time, mass, length, etc) are now automatically generated with a postinstall. 
+  - All units are maintained in json files
