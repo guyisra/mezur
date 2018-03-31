@@ -1,0 +1,28 @@
+{
+  "name": "mezur",
+  "version": "1.0.0",
+  "description": "Measure anything, convert to anything, do anything. Well, not anything of that sort..",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "measure",
+    "time",
+    "weight",
+    "distance",
+    "convert",
+    "conversion",
+    "unit"
+  ],
+  "author": "Guy Israeli",
+  "license": "MIT",
+"devDependencies": {
+    "jest": "^22.4.3",
+    "json-to-markdown": "^1.0.3"
+  },
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "string-math": "^1.0.0"
+  }
+}
