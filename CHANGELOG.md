@@ -7,3 +7,6 @@
 - 2.0.0
   - required types (time, mass, length, etc) are now automatically generated with a postinstall. 
   - All units are maintained in json files
+
+- 2.1.0
+  - add angles mezurs
