@@ -1,5 +1,5 @@
 # Mezur
-> Converting any time unit to any time unit
+> Converting any measuring unit to any unit
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
