@@ -38,7 +38,7 @@ require('mezur/length')
 require('mezur/time')
 ```
 
-## Supported Time Units
+## Supported Time Conversions
 
 |name|symbol|value|
 |----|----|----|
@@ -57,7 +57,7 @@ require('mezur/time')
 |year|Y|365d|
 |decade|D|10Y|
 
-## Supported Length Units
+## Supported Length Conversions
 
 |name|symbol|value|
 |----|----|----|
@@ -69,7 +69,7 @@ require('mezur/time')
 |yard|yard|0.9144m|
 |inch|in|0.0254m|
 
-## Supported MASS Units
+## Supported Mass Conversions
 
 |name|symbol|value|
 |----|----|----|
@@ -80,7 +80,16 @@ require('mezur/time')
 |carat|ct|0.2g|
 |jin|jin|0.002g|
 
+## Supported Angle Conversions
 
+|name|symbol|value|
+|----|----|----|
+|degree|deg|1|
+|radian|rad|1deg * 180/3.14159265|
+|gradian|grad|0.9deg|
+|milliradian|mrad|0.001rad|
+|minuteOfArc|minarc|1deg / 60|
+|secondOfArc|secarc|1deg / 3600|
 ## Development setup
 
 
