@@ -4,13 +4,16 @@
   "description": "Measure anything, convert to anything, do anything. Well, not anything of that sort..",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "generate-tables": "node makeTables.js"
   },
   "keywords": [
     "measure",
     "time",
     "weight",
+    "mass",
     "distance",
+    "length",
     "convert",
     "conversion",
     "unit"
