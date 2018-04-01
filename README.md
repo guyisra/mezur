@@ -38,7 +38,56 @@ require('mezur/length')
 require('mezur/time')
 ```
 
-## Supported Time Conversions
+# Supported Conversions
+## Angles 
+
+|name|symbol|value|
+|----|----|----|
+|degree|deg|1|
+|radian|rad|1deg * 180/3.141592653589793|
+|gradian|grad|0.9deg|
+|milliradian|mrad|0.001rad|
+|minuteOfArc|minarc|1deg / 60|
+|secondOfArc|secarc|1deg / 3600|
+
+
+## Length 
+
+|name|symbol|value|
+|----|----|----|
+|nanometer|nm|0.000000001m|
+|micrometer|mcm|0.000001m|
+|millimeter|mm|0.001m|
+|centimeter|cm|0.01m|
+|meter|m|1|
+|kilometer|km|1000m|
+|yard|yard|0.9144m|
+|inch|in|0.0254m|
+|mile|ml|1.609344km|
+|nauticalMile|nml|1.852km|
+|feet|ft|12in|
+
+
+## Mass 
+
+|name|symbol|value|base|
+|----|----|----|----|
+|gram|g|1|true|
+|microgram|mcg|0.000001g||
+|milligram|mg|0.001g||
+|kilogram|kg|1000g||
+|grain|gr|0.06479891g||
+|ounce|oz|28.349523125g||
+|pound|lb|453.59237g||
+|carat|ct|0.2g||
+|jin|jin|0.002g||
+|ton|T|1000000g||
+|imperialTon|impT|1016.05kg||
+|usTon|usT|907.18474kg||
+|stone|st|6.35029318kg||
+
+
+## Time 
 
 |name|symbol|value|
 |----|----|----|
@@ -56,40 +105,10 @@ require('mezur/time')
 |month|M|31d|
 |year|Y|365d|
 |decade|D|10Y|
+|century|C|10D|
 
-## Supported Length Conversions
 
-|name|symbol|value|
-|----|----|----|
-|nanometer|nm|0.000000001m|
-|millimeter|mm|0.01m|
-|centimeter|cm|0.01m|
-|meter|m|1|
-|kilometer|km|1000m|
-|yard|yard|0.9144m|
-|inch|in|0.0254m|
 
-## Supported Mass Conversions
-
-|name|symbol|value|
-|----|----|----|
-|gram|g|1|
-|kilogram|kg|1000g|
-|grain|gr|0.06479891g|
-|ounce|oz|28.349523125g|
-|carat|ct|0.2g|
-|jin|jin|0.002g|
-
-## Supported Angle Conversions
-
-|name|symbol|value|
-|----|----|----|
-|degree|deg|1|
-|radian|rad|1deg * 180/3.14159265|
-|gradian|grad|0.9deg|
-|milliradian|mrad|0.001rad|
-|minuteOfArc|minarc|1deg / 60|
-|secondOfArc|secarc|1deg / 3600|
 ## Development setup
 
 

@@ -6,6 +6,16 @@
     "base": true
   },
   {
+    "name": "microgram",
+    "symbol": "mcg",
+    "value": "0.000001g"
+  },
+  {
+    "name": "milligram",
+    "symbol": "mg",
+    "value": "0.001g"
+  },
+  {
     "name": "kilogram",
     "symbol": "kg",
     "value": "1000g"
@@ -21,6 +31,11 @@
     "value": "28.349523125g"
   },
   {
+    "name": "pound",
+    "symbol": "lb",
+    "value": "453.59237g"
+  },
+  {
     "name": "carat",
     "symbol": "ct",
     "value": "0.2g"
@@ -29,5 +44,25 @@
     "name": "jin",
     "symbol": "jin",
     "value": "0.002g"
+  },
+  {
+    "name": "ton",
+    "symbol": "T",
+    "value": "1000000g"
+  },
+  {
+    "name": "imperialTon",
+    "symbol": "impT",
+    "value": "1016.05kg"
+  },
+  {
+    "name": "usTon",
+    "symbol": "usT",
+    "value": "907.18474kg"
+  },
+  {
+    "name": "stone",
+    "symbol": "st",
+    "value": "6.35029318kg"
   }
 ]

@@ -5,9 +5,14 @@
     "value": "0.000000001m"
   },
   {
+    "name": "micrometer",
+    "symbol": "mcm",
+    "value": "0.000001m"
+  },
+  {
     "name": "millimeter",
     "symbol": "mm",
-    "value": "0.01m"
+    "value": "0.001m"
   },
   {
     "name": "centimeter",
@@ -34,5 +39,20 @@
     "name": "inch",
     "symbol": "in",
     "value": "0.0254m"
+  },
+  {
+    "name": "mile",
+    "symbol": "ml",
+    "value": "1.609344km"
+  },
+  {
+    "name": "nauticalMile",
+    "symbol": "nml",
+    "value": "1.852km"
+  },
+  {
+    "name": "feet",
+    "symbol": "ft",
+    "value": "12in"
   }
 ]

@@ -69,5 +69,10 @@
     "name": "decade",
     "symbol": "D",
     "value": "10Y"
+  },
+  {
+    "name": "century",
+    "symbol": "C",
+    "value": "10D"
   }
 ]

@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "name": "degree",
     "symbol": "deg",
@@ -7,7 +7,7 @@
   {
     "name": "radian",
     "symbol": "rad",
-    "value": "1deg * 180/3.14159265"
+    "value": `1deg * 180/${Math.PI}`
   },
   {
     "name": "gradian",
