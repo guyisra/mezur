@@ -57,3 +57,19 @@ describe('mezur/time', () => {
     expect(time.decades(10).inSeconds()).toEqual(3153600000)
   })
 })
+
+describe('extend units', () => {
+  fit('uses the new time units', () => {
+    const marsUnits = [
+      { name: 'martianDay', symbol: 'marsd', value: '24h + 39m + 35.244s' },
+      { name: 'martianYear', symbol: 'marsY', value: '668.5991marsd' }
+    ]
+
+    const timeUnits = require('./units/time.json') // note that angles is a js file, so PI calculates will be accurate
+
+    const marsTime = require('.')(timeUnits.concat(marsUnits))
+
+    expect(marsTime.martianYears(1).inMartianDays()).toEqual(668.5991)
+    expect(marsTime.martianYears(1).inSeconds()).toEqual(59355048.240680404)
+  })
+})

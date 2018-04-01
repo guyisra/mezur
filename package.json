@@ -1,6 +1,6 @@
 {
   "name": "mezur",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Measure anything, convert to anything, do anything. Well, not anything of that sort..",
   "main": "index.js",
   "scripts": {

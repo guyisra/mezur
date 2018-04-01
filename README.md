@@ -1,4 +1,5 @@
 # Mezur
+
 > Converting any measuring unit to any unit
 
 [![NPM Version][npm-image]][npm-url]
@@ -10,7 +11,6 @@ weeks are in a decade. And sometimes, you want to know how many blinks of an eye
 
 ## Installation
 
-
 ```sh
 npm install mezur --save
 ```
@@ -20,18 +20,19 @@ npm install mezur --save
 ```javascript
 const time = require('mezur/time')
 time.hours(5).inSeconds() // 18000
-time.decades(1).inWeeks() // 521.4285714285714 
+time.decades(1).inWeeks() // 521.4285714285714
 ```
 
 Also exposes the timeunit methods directly
 
 ```javascript
-const {hours, minutes} = require('mezur/time')
+const { hours, minutes } = require('mezur/time')
 hours(3).inDays() // 0.125
 minutes(60).inHours() // 1
 ```
 
-same for  
+same for
+
 ```javascript
 require('mezur/mass')
 require('mezur/length')
@@ -133,10 +134,35 @@ require('mezur/time')
 
 ## Development setup
 
-
 ```sh
-yarn install 
+yarn install
 yarn test
+```
+
+## How to extend Mezur?
+
+Let's say you now landed on Mars, and obvisouly everything is in javascript because only hipsters live on Mars.
+
+```javascript
+const marsUnits = [
+  {
+    name: 'martianDay', // or sol
+    symbol: 'marsd',
+    value: '24h + 39m + 35.244s'
+  },
+  {
+    name: 'martianYear',
+    symbol: 'marsY',
+    value: '668.5991marsd' // d is earth days
+  }
+]
+
+const timeUnits = require('./units/time.json') // note that angles is a js file, so PI calculates will be accurate
+
+const marsTime = require('.')(timeUnits.concat(marsUnits))
+
+marsTime.martianYears(1).inMartianDays() // 668.5991
+marsTime.martianYears(1).inSeconds() // 59355048.240680404
 ```
 
 ## Release History
@@ -147,19 +173,20 @@ see changelog.md
 
 Guy Israeli – [@isguyra](https://twitter.com/isguyra)
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/guyisra/mezur](https://github.com/guyisra/mezur)
 
 ## Contributing
 
-1. Fork it (<https://github.com/guyisra/mezur>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1.  Fork it (<https://github.com/guyisra/mezur>)
+2.  Create your feature branch (`git checkout -b feature/fooBar`)
+3.  Commit your changes (`git commit -am 'Add some fooBar'`)
+4.  Push to the branch (`git push origin feature/fooBar`)
+5.  Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
+
 [npm-image]: https://img.shields.io/npm/v/mezur.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/mezur
 [npm-downloads]: https://img.shields.io/npm/dm/mezur.svg?style=flat-square
