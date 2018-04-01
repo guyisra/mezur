@@ -10,3 +10,8 @@
 
 - 2.1.0
   - add angles mezurs
+
+- 2.2.0
+  - fix mm conversion
+  - add more units in angles, length, mass, time
+  - autogen readme tables for convinience
