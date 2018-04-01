@@ -170,7 +170,7 @@ const marsUnits = [
 
 const timeUnits = require('./units/time.json') // note that angles is a js file, so PI calculates will be accurate
 
-const marsTime = require('.')(timeUnits.concat(marsUnits))
+const marsTime = require('mezur')(timeUnits.concat(marsUnits))
 
 marsTime.martianYears(1).inMartianDays() // 668.5991
 marsTime.martianYears(1).inSeconds() // 59355048.240680404
