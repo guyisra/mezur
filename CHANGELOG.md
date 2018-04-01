@@ -22,3 +22,6 @@
 
 - 2.4.0
   - Add Pressure
+
+- 2.5.0
+  - Add `toUnit` and `asUnit` conversion methods.

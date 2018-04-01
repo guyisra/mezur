@@ -55,6 +55,8 @@ describe('mezur/time', () => {
 
   it('converts from decade to seconds', () => {
     expect(time.decades(10).inSeconds()).toEqual(3153600000)
+    expect(time.decades(10).asSeconds()).toEqual(3153600000)
+    expect(time.decades(10).toSeconds()).toEqual(3153600000)
   })
 })
 

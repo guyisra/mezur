@@ -31,11 +31,16 @@ hours(3).inDays() // 0.125
 minutes(60).inHours() // 1
 ```
 
+Also possible is `.asHours()` or `.toHours()`
+
 same for
 
 ```javascript
+require('mezur/angles')
+require('mezur/area')
 require('mezur/mass')
 require('mezur/length')
+require('mezur/pressure')
 require('mezur/time')
 ```
 
