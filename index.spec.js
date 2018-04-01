@@ -59,7 +59,7 @@ describe('mezur/time', () => {
 })
 
 describe('extend units', () => {
-  fit('uses the new time units', () => {
+  it('uses the new time units', () => {
     const marsUnits = [
       { name: 'martianDay', symbol: 'marsd', value: '24h + 39m + 35.244s' },
       { name: 'martianYear', symbol: 'marsY', value: '668.5991marsd' }
