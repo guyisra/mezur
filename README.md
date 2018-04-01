@@ -166,7 +166,7 @@ yarn test
 
 ## How to extend Mezur?
 
-Let's say you now landed on Mars, and obvisouly everything is in javascript because only hipsters live on Mars.
+Let's say you now landed on Mars, and obviously everything is in javascript because only hipsters live on Mars.
 
 ```javascript
 const marsUnits = [
