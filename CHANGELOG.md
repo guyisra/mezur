@@ -19,3 +19,6 @@
 - 2.3.0
   - add Area conversions
   - Fix base unit conversion 
+
+- 2.4.0
+  - Add Pressure

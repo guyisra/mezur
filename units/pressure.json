@@ -1,0 +1,28 @@
+[
+  {
+    "name": "bar",
+    "symbol": "bar",
+    "value": 1,
+    "base": true
+  },
+  {
+    "name": "psi",
+    "symbol": "psi",
+    "value": "0.06894757293bar"
+  },
+  {
+    "name": "atmosphere",
+    "symbol": "atm",
+    "value": "1.01325000bar"
+  },
+  {
+    "name": "pascal",
+    "symbol": "pas",
+    "value": "0.00001bar"
+  },
+  {
+    "name": "torr",
+    "symbol": "tr",
+    "value": "0.001333223684bar"
+  }
+]

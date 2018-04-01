@@ -110,6 +110,17 @@ require('mezur/time')
 |stone|st|6.35029318kg|
 
 
+## Pressure 
+
+|name|symbol|value|
+|----|----|----|
+|bar|bar|1|
+|psi|psi|0.06894757293bar|
+|atmosphere|atm|1.01325000bar|
+|pascal|pas|0.00001bar|
+|torr|tr|0.001333223684bar|
+
+
 ## Time 
 
 |name|symbol|value|
