@@ -70,21 +70,21 @@ require('mezur/time')
 
 ## Mass 
 
-|name|symbol|value|base|
-|----|----|----|----|
-|gram|g|1|true|
-|microgram|mcg|0.000001g||
-|milligram|mg|0.001g||
-|kilogram|kg|1000g||
-|grain|gr|0.06479891g||
-|ounce|oz|28.349523125g||
-|pound|lb|453.59237g||
-|carat|ct|0.2g||
-|jin|jin|0.002g||
-|ton|T|1000000g||
-|imperialTon|impT|1016.05kg||
-|usTon|usT|907.18474kg||
-|stone|st|6.35029318kg||
+|name|symbol|value|
+|----|----|----|
+|gram|g|1|
+|microgram|mcg|0.000001g|
+|milligram|mg|0.001g|
+|kilogram|kg|1000g|
+|grain|gr|0.06479891g|
+|ounce|oz|28.349523125g|
+|pound|lb|453.59237g|
+|carat|ct|0.2g|
+|jin|jin|0.002g|
+|ton|T|1000000g|
+|imperialTon|impT|1016.05kg|
+|usTon|usT|907.18474kg|
+|stone|st|6.35029318kg|
 
 
 ## Time 

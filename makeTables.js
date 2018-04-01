@@ -8,7 +8,7 @@ files = fs.readdirSync('./units')
 files.forEach(file => {
   const units = require('./units/' + file)
   tables = tables + `## ${capitalize(file.split('.')[0])} \n\n`
-  tables = tables + j2md(units, Object.keys(units[0]))
+  tables = tables + j2md(units, ["name", "symbol", "value"])
   tables = tables + '\n\n'
 })
 
