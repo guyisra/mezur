@@ -164,7 +164,7 @@ const marsUnits = [
   {
     name: 'martianYear',
     symbol: 'marsY',
-    value: '668.5991marsd' // d is earth days
+    value: '668.5991marsd'
   }
 ]
 
