@@ -1,0 +1,63 @@
+[
+  {
+    "name": "squareMeter",
+    "symbol": "sqm",
+    "value": "1",
+    "base": true
+  },
+  {
+    "name": "squareKilometer",
+    "symbol": "sqkm",
+    "value": "1000000sqm"
+  },
+  {
+    "name": "hectare",
+    "symbol": "ha",
+    "value": "10000"
+  },
+  {
+    "name": "decare",
+    "symbol": "daa",
+    "value": "100sqm"
+  },
+  {
+    "name": "are",
+    "symbol": "a",
+    "value": "100sqm"
+  },
+  {
+    "name": "deciare",
+    "symbol": "da",
+    "value": "10sqm"
+  },
+  {
+    "name": "centiare",
+    "symbol": "ca",
+    "value": "0.1sqm"
+  },
+  {
+    "name": "acre",
+    "symbol": "acre",
+    "value": "4046.856430051sqm"
+  },
+  {
+    "name": "cent",
+    "symbol": "cn",
+    "value": "40.468564301sqm"
+  },
+  {
+    "name": "squareYard",
+    "symbol": "sqy",
+    "value": ".836127392sqm"
+  },
+  {
+    "name": "squareFeet",
+    "symbol": "sqft",
+    "value": "0.092903035sqm"
+  },
+  {
+    "name": "squareInch",
+    "symbol": "sqin",
+    "value": "0.00064516sqm"
+  }
+]

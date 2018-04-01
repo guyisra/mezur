@@ -15,3 +15,7 @@
   - fix mm conversion
   - add more units in angles, length, mass, time
   - autogen readme tables for convinience
+
+- 2.3.0
+  - add Area conversions
+  - Fix base unit conversion 

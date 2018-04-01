@@ -47,8 +47,30 @@ require('mezur/time')
 |radian|rad|1deg * 180/3.141592653589793|
 |gradian|grad|0.9deg|
 |milliradian|mrad|0.001rad|
-|minuteOfArc|minarc|1deg / 60|
-|secondOfArc|secarc|1deg / 3600|
+|arcMinute|arcmin|1deg / 60|
+|arcSecond|arcsec|1deg / 3600|
+|turn|tr|360deg|
+|quadrant|qd|90deg|
+|sextant|sxt|60deg|
+|hourAngle|hrang|15deg|
+
+
+## Area 
+
+|name|symbol|value|
+|----|----|----|
+|squareMeter|sqm|1|
+|squareKilometer|sqkm|1000000sqm|
+|hectare|ha|10000|
+|decare|daa|100sqm|
+|are|a|100sqm|
+|deciare|da|10sqm|
+|centiare|ca|0.1sqm|
+|acre|acre|4046.856430051sqm|
+|cent|cn|40.468564301sqm|
+|squareYard|sqy|.836127392sqm|
+|squareFeet|sqft|0.092903035sqm|
+|squareInch|sqin|0.00064516sqm|
 
 
 ## Length 

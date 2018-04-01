@@ -10,25 +10,19 @@ module.exports = unitTypes => {
       this.name = name
 
       unitTypes.forEach(klassTo => {
-        if (klassTo.base) {
-          return
-        }
         this.constructor.prototype[`in${capitalize(klassTo.name)}s`] = function() {
-          return this.convertTo(klassTo)
+          return this._convertTo(klassTo)
         }
       })
     }
 
-    inSeconds() {
+    _inBaseUnit() {
       const mezuringUnit = unitTypes.filter(x => this.name === x.name)[0]
       return this.units * conversionParser(mezuringUnit.value)
     }
 
-    convertTo(otherUnit) {
-      return (
-        this.inSeconds() /
-        conversionParser(unitTypes.filter(x => otherUnit.name === x.name)[0].value)
-      )
+    _convertTo(otherUnit) {
+      return this._inBaseUnit() / conversionParser(unitTypes.filter(x => otherUnit.name === x.name)[0].value)
     }
   }
   const mezuringFunctions = {}

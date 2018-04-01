@@ -20,13 +20,33 @@ module.exports = [
     "value": "0.001rad"
   },
   {
-    "name": "minuteOfArc",
-    "symbol": "minarc",
+    "name": "arcMinute",
+    "symbol": "arcmin",
     "value": "1deg / 60"
   },
   {
-    "name": "secondOfArc",
-    "symbol": "secarc",
+    "name": "arcSecond",
+    "symbol": "arcsec",
     "value": "1deg / 3600"
+  },
+  {
+    "name": "turn",
+    "symbol": "tr",
+    "value": "360deg"
+  },
+  {
+    "name": "quadrant",
+    "symbol": "qd",
+    "value": "90deg"
+  },
+  {
+    "name": "sextant",
+    "symbol": "sxt",
+    "value": "60deg"
+  },
+  {
+    "name": "hourAngle",
+    "symbol": "hrang",
+    "value": "15deg"
   }
 ]
