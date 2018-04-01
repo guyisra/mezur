@@ -39,6 +39,15 @@ require('mezur/length')
 require('mezur/time')
 ```
 
+# There are other unit conversion packages, what gives?
+
+Some of the other packages only give you partial conversions (i.e. minutes to seconds) without anything else.
+Some are great, but are not complete, so you need several packages to "collect the whole set"
+Some are more "complete" but without an easy way to add more units.
+
+Building this is with intent to provide as much flexibility and extendability as possibly while keeping
+an easy-on-the-eyes usage, since you want to an easy and reliable API when converting, so it won't get in the way
+of your other important code. I believe that `hours(5).inSeconds()` do just that (to as much as javascript can give)
 # Supported Conversions
 ## Angles 
 
