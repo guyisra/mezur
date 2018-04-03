@@ -92,9 +92,9 @@ of your other important code. I believe that `hours(5).inSeconds()` do just that
 
 |name|symbol|value|
 |----|----|----|
-|nanometer|nm|0.000000001m|
-|micrometer|mcm|0.000001m|
-|millimeter|mm|0.001m|
+|nanometer|nm|0.001mcm|
+|micrometer|mcm|0.001mm|
+|millimeter|mm|0.01cm|
 |centimeter|cm|0.01m|
 |meter|m|1|
 |kilometer|km|1000m|

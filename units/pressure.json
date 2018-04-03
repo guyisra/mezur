@@ -2,7 +2,7 @@
   {
     "name": "bar",
     "symbol": "bar",
-    "value": 1,
+    "value": "1",
     "base": true
   },
   {

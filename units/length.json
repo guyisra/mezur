@@ -2,17 +2,17 @@
   {
     "name": "nanometer",
     "symbol": "nm",
-    "value": "0.000000001m"
+    "value": "0.001mcm"
   },
   {
     "name": "micrometer",
     "symbol": "mcm",
-    "value": "0.000001m"
+    "value": "0.001mm"
   },
   {
     "name": "millimeter",
     "symbol": "mm",
-    "value": "0.001m"
+    "value": "0.01cm"
   },
   {
     "name": "centimeter",

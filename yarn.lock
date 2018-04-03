@@ -2862,9 +2862,9 @@ string-length@^2.0.0:
     astral-regex "^1.0.0"
     strip-ansi "^4.0.0"
 
-string-math@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/string-math/-/string-math-1.0.0.tgz#deca4c29dae6cf08ad5c351a9215e1d80a5a8d1f"
+"string-math@git://github.com/guyisra/string-math.git#fix_invalid_equation_in_scientific_notation":
+  version "1.1.0"
+  resolved "git://github.com/guyisra/string-math.git#587086f820d3eac5a705e441d09030fd0512a19a"
 
 string-width@^1.0.1, string-width@^1.0.2:
   version "1.0.2"

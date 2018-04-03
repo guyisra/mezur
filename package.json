@@ -1,6 +1,6 @@
 {
   "name": "mezur",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "Measure anything, convert to anything, do anything. Well, not anything of that sort..",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "capitalize": "^1.0.0",
-    "string-math": "^1.0.0"
+    "string-math": "git://github.com/guyisra/string-math.git#fix_invalid_equation_in_scientific_notation"
   }
 }
