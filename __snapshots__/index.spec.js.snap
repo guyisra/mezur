@@ -10704,6 +10704,222 @@ exports[`mezur/pressure.json converts from 1 torr to torr, "in" method 1`] = `1`
 
 exports[`mezur/pressure.json converts from 1 torr to torr, "to" method 1`] = `1`;
 
+exports[`mezur/temperature.json converts from 1 Celsius to Celsius, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Celsius, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Celsius, "to" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Delisle, "as" method 1`] = `0.4911102154149313`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Delisle, "in" method 1`] = `0.4911102154149313`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Delisle, "to" method 1`] = `0.4911102154149313`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Fahrenheit, "as" method 1`] = `-0.5987507371087862`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Fahrenheit, "in" method 1`] = `-0.5987507371087862`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Fahrenheit, "to" method 1`] = `-0.5987507371087862`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Kelvin, "as" method 1`] = `274.15`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Kelvin, "in" method 1`] = `274.15`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Kelvin, "to" method 1`] = `274.15`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Newton, "as" method 1`] = `-3.052572389335204`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Newton, "in" method 1`] = `-3.052572389335204`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Newton, "to" method 1`] = `-3.052572389335204`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Rankine, "as" method 1`] = `152.30555555555554`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Rankine, "in" method 1`] = `152.30555555555554`;
+
+exports[`mezur/temperature.json converts from 1 Celsius to Rankine, "to" method 1`] = `152.30555555555554`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Celsius, "as" method 1`] = `2.0362028086813786`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Celsius, "in" method 1`] = `2.0362028086813786`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Celsius, "to" method 1`] = `2.0362028086813786`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Delisle, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Delisle, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Delisle, "to" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Fahrenheit, "as" method 1`] = `-1.2191779326009564`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Fahrenheit, "in" method 1`] = `-1.2191779326009564`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Fahrenheit, "to" method 1`] = `-1.2191779326009564`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Kelvin, "as" method 1`] = `558.2249999999999`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Kelvin, "in" method 1`] = `558.2249999999999`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Kelvin, "to" method 1`] = `558.2249999999999`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Newton, "as" method 1`] = `-6.21565647286757`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Newton, "in" method 1`] = `-6.21565647286757`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Newton, "to" method 1`] = `-6.21565647286757`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Rankine, "as" method 1`] = `310.12499999999994`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Rankine, "in" method 1`] = `310.12499999999994`;
+
+exports[`mezur/temperature.json converts from 1 Delisle to Rankine, "to" method 1`] = `310.12499999999994`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Celsius, "as" method 1`] = `-1.6701440817070947`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Celsius, "in" method 1`] = `-1.6701440817070947`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Celsius, "to" method 1`] = `-1.6701440817070947`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Delisle, "as" method 1`] = `-0.8202248197411439`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Delisle, "in" method 1`] = `-0.8202248197411439`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Delisle, "to" method 1`] = `-0.8202248197411439`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Fahrenheit, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Fahrenheit, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Fahrenheit, "to" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Kelvin, "as" method 1`] = `-457.87`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Kelvin, "in" method 1`] = `-457.87`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Kelvin, "to" method 1`] = `-457.87`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Newton, "as" method 1`] = `5.098235710030677`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Newton, "in" method 1`] = `5.098235710030677`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Newton, "to" method 1`] = `5.098235710030677`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Rankine, "as" method 1`] = `-254.3722222222222`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Rankine, "in" method 1`] = `-254.3722222222222`;
+
+exports[`mezur/temperature.json converts from 1 Fahrenheit to Rankine, "to" method 1`] = `-254.3722222222222`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Celsius, "as" method 1`] = `0.0036476381542950944`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Celsius, "in" method 1`] = `0.0036476381542950944`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Celsius, "to" method 1`] = `0.0036476381542950944`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Delisle, "as" method 1`] = `0.0017913923597115862`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Delisle, "in" method 1`] = `0.0017913923597115862`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Delisle, "to" method 1`] = `0.0017913923597115862`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Fahrenheit, "as" method 1`] = `-0.0021840260335903206`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Fahrenheit, "in" method 1`] = `-0.0021840260335903206`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Fahrenheit, "to" method 1`] = `-0.0021840260335903206`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Kelvin, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Kelvin, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Kelvin, "to" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Newton, "as" method 1`] = `-0.01113467951608683`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Newton, "in" method 1`] = `-0.01113467951608683`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Newton, "to" method 1`] = `-0.01113467951608683`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Rankine, "as" method 1`] = `0.5555555555555556`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Rankine, "in" method 1`] = `0.5555555555555556`;
+
+exports[`mezur/temperature.json converts from 1 Kelvin to Rankine, "to" method 1`] = `0.5555555555555556`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Celsius, "as" method 1`] = `-0.32759255881816524`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Celsius, "in" method 1`] = `-0.32759255881816524`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Celsius, "to" method 1`] = `-0.32759255881816524`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Delisle, "as" method 1`] = `-0.16088405212951767`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Delisle, "in" method 1`] = `-0.16088405212951767`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Delisle, "to" method 1`] = `-0.16088405212951767`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Fahrenheit, "as" method 1`] = `0.19614628606372986`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Fahrenheit, "in" method 1`] = `0.19614628606372986`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Fahrenheit, "to" method 1`] = `0.19614628606372986`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Kelvin, "as" method 1`] = `-89.80949999999999`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Kelvin, "in" method 1`] = `-89.80949999999999`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Kelvin, "to" method 1`] = `-89.80949999999999`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Newton, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Newton, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Newton, "to" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Rankine, "as" method 1`] = `-49.894166666666656`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Rankine, "in" method 1`] = `-49.894166666666656`;
+
+exports[`mezur/temperature.json converts from 1 Newton to Rankine, "to" method 1`] = `-49.894166666666656`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Celsius, "as" method 1`] = `0.0065657486777311695`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Celsius, "in" method 1`] = `0.0065657486777311695`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Celsius, "to" method 1`] = `0.0065657486777311695`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Delisle, "as" method 1`] = `0.003224506247480855`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Delisle, "in" method 1`] = `0.003224506247480855`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Delisle, "to" method 1`] = `0.003224506247480855`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Fahrenheit, "as" method 1`] = `-0.003931246860462576`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Fahrenheit, "in" method 1`] = `-0.003931246860462576`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Fahrenheit, "to" method 1`] = `-0.003931246860462576`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Kelvin, "as" method 1`] = `1.8`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Kelvin, "in" method 1`] = `1.8`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Kelvin, "to" method 1`] = `1.8`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Newton, "as" method 1`] = `-0.020042423128956294`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Newton, "in" method 1`] = `-0.020042423128956294`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Newton, "to" method 1`] = `-0.020042423128956294`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Rankine, "as" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Rankine, "in" method 1`] = `1`;
+
+exports[`mezur/temperature.json converts from 1 Rankine to Rankine, "to" method 1`] = `1`;
+
 exports[`mezur/time.json converts from 1 century to century, "as" method 1`] = `1`;
 
 exports[`mezur/time.json converts from 1 century to century, "in" method 1`] = `1`;

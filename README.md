@@ -176,6 +176,18 @@ of your other important code. I believe that `hours(5).inSeconds()` do just that
 |torr|tr|0.001333223684bar|
 
 
+## Temperature 
+
+|name|symbol|value|
+|----|----|----|
+|Celsius|C|1K + 273.15|
+|Delisle|D|(1K - 373.15) * (-3 / 2)|
+|Fahrenheit|F|(1K * 9 / 5) - 459.67|
+|Kelvin|K|1|
+|Newton|N|(1K - 273.15) * 33 / 100|
+|Rankine|R|1K * 9 / 5|
+
+
 ## Time 
 
 |name|symbol|value|

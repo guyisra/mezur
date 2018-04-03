@@ -1,6 +1,6 @@
 {
   "name": "mezur",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "Measure anything, convert to anything, do anything. Well, not anything of that sort..",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "keywords": [
     "measure",
     "acceleration",
+    "temperature",
     "time",
     "area",
     "angles",

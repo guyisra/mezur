@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Celsius",
+    "symbol": "C",
+    "value": "1K + 273.15"
+  },
+  {
+    "name": "Kelvin",
+    "symbol": "K",
+    "value": "1",
+    "base": true
+  },
+  {
+    "name": "Fahrenheit",
+    "symbol": "F",
+    "value": "(1K * 9 / 5) - 459.67"
+  },
+  {
+    "name": "Rankine",
+    "symbol": "R",
+    "value": "1K * 9 / 5"
+  },
+  {
+    "name": "Delisle",
+    "symbol": "D",
+    "value": "(1K - 373.15) * (-3 / 2)"
+  },
+  {
+    "name": "Newton",
+    "symbol": "N",
+    "value": "(1K - 273.15) * 33 / 100"
+  }
+]

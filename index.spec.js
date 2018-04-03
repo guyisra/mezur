@@ -4,7 +4,7 @@ require('./postinstall')
 
 files = fs.readdirSync('./units')
 files.forEach(file => {
-  // file = "length.json"
+  // file = "temperature.json"
   describe(`mezur/${file}`, () => {
     const units = require('./units/' + file)
     const mezuringScope = require('./' + file.split('.')[0])
