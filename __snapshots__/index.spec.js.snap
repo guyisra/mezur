@@ -168,11 +168,11 @@ exports[`mezur/acceleration.json converts from 1 centigal to metersPerMinPerMin,
 
 exports[`mezur/acceleration.json converts from 1 centigal to metersPerMinPerMin, "to" method 1`] = `0.3599997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPer/sec, "as" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPerSec, "as" method 1`] = `0.0001`;
 
-exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPer/sec, "in" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPerSec, "in" method 1`] = `0.0001`;
 
-exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPer/sec, "to" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigal to metersPerSecPerSec, "to" method 1`] = `0.0001`;
 
 exports[`mezur/acceleration.json converts from 1 centigal to milePerHourPerHour, "as" method 1`] = `0.8052956240235791`;
 
@@ -378,11 +378,11 @@ exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerMinPer
 
 exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerMinPerMin, "to" method 1`] = `0.3599997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPer/sec, "as" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPerSec, "as" method 1`] = `0.0001`;
 
-exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPer/sec, "in" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPerSec, "in" method 1`] = `0.0001`;
 
-exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPer/sec, "to" method 1`] = `0.0001`;
+exports[`mezur/acceleration.json converts from 1 centigalileo to metersPerSecPerSec, "to" method 1`] = `0.0001`;
 
 exports[`mezur/acceleration.json converts from 1 centigalileo to milePerHourPerHour, "as" method 1`] = `0.8052956240235791`;
 
@@ -588,11 +588,11 @@ exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to meter
 
 exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `35.99997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `0.01`;
 
 exports[`mezur/acceleration.json converts from 1 centimeterPerSecPerSec to milePerHourPerHour, "as" method 1`] = `80.52956240235791`;
 
@@ -798,11 +798,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPer
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerMinPerMin, "to" method 1`] = `0.00008466660426671658`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPer/sec, "as" method 1`] = `2.351852e-8`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPerSec, "as" method 1`] = `2.351852e-8`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPer/sec, "in" method 1`] = `2.351852e-8`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPerSec, "in" method 1`] = `2.351852e-8`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPer/sec, "to" method 1`] = `2.351852e-8`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to metersPerSecPerSec, "to" method 1`] = `2.351852e-8`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourPerHour to milePerHourPerHour, "as" method 1`] = `0.00018939361239511026`;
 
@@ -1008,11 +1008,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerM
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerMinPerMin, "to" method 1`] = `0.005079595936323251`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPer/sec, "as" method 1`] = `0.000001411`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPerSec, "as" method 1`] = `0.000001411`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPer/sec, "in" method 1`] = `0.000001411`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPerSec, "in" method 1`] = `0.000001411`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPer/sec, "to" method 1`] = `0.000001411`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to metersPerSecPerSec, "to" method 1`] = `0.000001411`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourPerMin to milePerHourPerHour, "as" method 1`] = `0.0113627212549727`;
 
@@ -1218,11 +1218,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerMinP
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerMinPerMin, "to" method 1`] = `0.304800956159235`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPer/sec, "as" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPerSec, "as" method 1`] = `0.000084667`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPer/sec, "in" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPerSec, "in" method 1`] = `0.000084667`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPer/sec, "to" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerHourSec to metersPerSecPerSec, "to" method 1`] = `0.000084667`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerHourSec to milePerHourPerHour, "as" method 1`] = `0.6818196459920437`;
 
@@ -1428,11 +1428,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerMinPerMin, "to" method 1`] = `0.304800956159235`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPer/sec, "as" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPerSec, "as" method 1`] = `0.000084667`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPer/sec, "in" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPerSec, "in" method 1`] = `0.000084667`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPer/sec, "to" method 1`] = `0.000084667`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to metersPerSecPerSec, "to" method 1`] = `0.000084667`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerMinPerMin to milePerHourPerHour, "as" method 1`] = `0.6818196459920437`;
 
@@ -1638,11 +1638,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPe
 
 exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerMinPerMin, "to" method 1`] = `18.287985369611704`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPer/sec, "as" method 1`] = `0.00508`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPerSec, "as" method 1`] = `0.00508`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPer/sec, "in" method 1`] = `0.00508`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPerSec, "in" method 1`] = `0.00508`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPer/sec, "to" method 1`] = `0.00508`;
+exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to metersPerSecPerSec, "to" method 1`] = `0.00508`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerMinutePerSec to milePerHourPerHour, "as" method 1`] = `40.909017700397825`;
 
@@ -1848,11 +1848,11 @@ exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `1097.2791221767022`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `0.3048`;
+exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `0.3048`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `0.3048`;
+exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `0.3048`;
 
-exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `0.3048`;
+exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `0.3048`;
 
 exports[`mezur/acceleration.json converts from 1 feetPerSecPerSec to milePerHourPerHour, "as" method 1`] = `2454.5410620238695`;
 
@@ -2058,11 +2058,11 @@ exports[`mezur/acceleration.json converts from 1 gUnits to metersPerMinPerMin, "
 
 exports[`mezur/acceleration.json converts from 1 gUnits to metersPerMinPerMin, "to" method 1`] = `35303.91175687059`;
 
-exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPer/sec, "as" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPerSec, "as" method 1`] = `9.80665`;
 
-exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPer/sec, "in" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPerSec, "in" method 1`] = `9.80665`;
 
-exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPer/sec, "to" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gUnits to metersPerSecPerSec, "to" method 1`] = `9.80665`;
 
 exports[`mezur/acceleration.json converts from 1 gUnits to milePerHourPerHour, "as" method 1`] = `78972.52331330832`;
 
@@ -2268,11 +2268,11 @@ exports[`mezur/acceleration.json converts from 1 gal to metersPerMinPerMin, "in"
 
 exports[`mezur/acceleration.json converts from 1 gal to metersPerMinPerMin, "to" method 1`] = `35.99997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPer/sec, "as" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPerSec, "as" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPer/sec, "in" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPerSec, "in" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPer/sec, "to" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 gal to metersPerSecPerSec, "to" method 1`] = `0.01`;
 
 exports[`mezur/acceleration.json converts from 1 gal to milePerHourPerHour, "as" method 1`] = `80.52956240235791`;
 
@@ -2478,11 +2478,11 @@ exports[`mezur/acceleration.json converts from 1 galileo to metersPerMinPerMin, 
 
 exports[`mezur/acceleration.json converts from 1 galileo to metersPerMinPerMin, "to" method 1`] = `35.99997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPer/sec, "as" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPerSec, "as" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPer/sec, "in" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPerSec, "in" method 1`] = `0.01`;
 
-exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPer/sec, "to" method 1`] = `0.01`;
+exports[`mezur/acceleration.json converts from 1 galileo to metersPerSecPerSec, "to" method 1`] = `0.01`;
 
 exports[`mezur/acceleration.json converts from 1 galileo to milePerHourPerHour, "as" method 1`] = `80.52956240235791`;
 
@@ -2688,11 +2688,11 @@ exports[`mezur/acceleration.json converts from 1 gravity to metersPerMinPerMin, 
 
 exports[`mezur/acceleration.json converts from 1 gravity to metersPerMinPerMin, "to" method 1`] = `35303.91175687059`;
 
-exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPer/sec, "as" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPerSec, "as" method 1`] = `9.80665`;
 
-exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPer/sec, "in" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPerSec, "in" method 1`] = `9.80665`;
 
-exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPer/sec, "to" method 1`] = `9.80665`;
+exports[`mezur/acceleration.json converts from 1 gravity to metersPerSecPerSec, "to" method 1`] = `9.80665`;
 
 exports[`mezur/acceleration.json converts from 1 gravity to milePerHourPerHour, "as" method 1`] = `78972.52331330832`;
 
@@ -2898,11 +2898,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPer
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerMinPerMin, "to" method 1`] = `0.000007055551555558755`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPer/sec, "as" method 1`] = `1.959877e-9`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPerSec, "as" method 1`] = `1.959877e-9`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPer/sec, "in" method 1`] = `1.959877e-9`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPerSec, "in" method 1`] = `1.959877e-9`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPer/sec, "to" method 1`] = `1.959877e-9`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to metersPerSecPerSec, "to" method 1`] = `1.959877e-9`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerHour to milePerHourPerHour, "as" method 1`] = `0.0000157828037172446`;
 
@@ -3108,11 +3108,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerM
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerMinPerMin, "to" method 1`] = `0.0004233330213335829`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPer/sec, "as" method 1`] = `1.175926e-7`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPerSec, "as" method 1`] = `1.175926e-7`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPer/sec, "in" method 1`] = `1.175926e-7`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPerSec, "in" method 1`] = `1.175926e-7`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPer/sec, "to" method 1`] = `1.175926e-7`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to metersPerSecPerSec, "to" method 1`] = `1.175926e-7`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerMin to milePerHourPerHour, "as" method 1`] = `0.0009469680619755514`;
 
@@ -3318,11 +3318,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersP
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerMinPerMin, "to" method 1`] = `0.025399981280014975`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPer/sec, "as" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPerSec, "as" method 1`] = `0.000007055556`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPer/sec, "in" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPerSec, "in" method 1`] = `0.000007055556`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPer/sec, "to" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to metersPerSecPerSec, "to" method 1`] = `0.000007055556`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerHourPerSecond to milePerHourPerHour, "as" method 1`] = `0.05681808371853308`;
 
@@ -3528,11 +3528,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerMinPerMin, "to" method 1`] = `0.025399981280014975`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPer/sec, "as" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPerSec, "as" method 1`] = `0.000007055556`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPer/sec, "in" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPerSec, "in" method 1`] = `0.000007055556`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPer/sec, "to" method 1`] = `0.000007055556`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to metersPerSecPerSec, "to" method 1`] = `0.000007055556`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerMinPerMin to milePerHourPerHour, "as" method 1`] = `0.05681808371853308`;
 
@@ -3738,11 +3738,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerMinPerMin, "to" method 1`] = `1.5239975808019355`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPer/sec, "as" method 1`] = `0.000423333`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPerSec, "as" method 1`] = `0.000423333`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPer/sec, "in" method 1`] = `0.000423333`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPerSec, "in" method 1`] = `0.000423333`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPer/sec, "to" method 1`] = `0.000423333`;
+exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to metersPerSecPerSec, "to" method 1`] = `0.000423333`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerMinPerSec to milePerHourPerHour, "as" method 1`] = `3.4090821240477385`;
 
@@ -3948,11 +3948,11 @@ exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `91.43992684805852`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `0.0254`;
+exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `0.0254`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `0.0254`;
+exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `0.0254`;
 
-exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `0.0254`;
+exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `0.0254`;
 
 exports[`mezur/acceleration.json converts from 1 inchPerSecPerSec to milePerHourPerHour, "as" method 1`] = `204.54508850198908`;
 
@@ -4158,11 +4158,11 @@ exports[`mezur/acceleration.json converts from 1 kilogal to metersPerMinPerMin, 
 
 exports[`mezur/acceleration.json converts from 1 kilogal to metersPerMinPerMin, "to" method 1`] = `35999.971200023036`;
 
-exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPer/sec, "as" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPerSec, "as" method 1`] = `10`;
 
-exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPer/sec, "in" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPerSec, "in" method 1`] = `10`;
 
-exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPer/sec, "to" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogal to metersPerSecPerSec, "to" method 1`] = `10`;
 
 exports[`mezur/acceleration.json converts from 1 kilogal to milePerHourPerHour, "as" method 1`] = `80529.56240235791`;
 
@@ -4368,11 +4368,11 @@ exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerMinPerM
 
 exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerMinPerMin, "to" method 1`] = `35999.971200023036`;
 
-exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPer/sec, "as" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPerSec, "as" method 1`] = `10`;
 
-exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPer/sec, "in" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPerSec, "in" method 1`] = `10`;
 
-exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPer/sec, "to" method 1`] = `10`;
+exports[`mezur/acceleration.json converts from 1 kilogalileo to metersPerSecPerSec, "to" method 1`] = `10`;
 
 exports[`mezur/acceleration.json converts from 1 kilogalileo to milePerHourPerHour, "as" method 1`] = `80529.56240235791`;
 
@@ -4578,11 +4578,11 @@ exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to meters
 
 exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `3599997.1200023037`;
 
-exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `1000`;
 
-exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `1000`;
 
-exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `1000`;
 
 exports[`mezur/acceleration.json converts from 1 kilometerPerSecPerSec to milePerHourPerHour, "as" method 1`] = `8052956.240235792`;
 
@@ -4788,11 +4788,11 @@ exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerMinPer
 
 exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerMinPerMin, "to" method 1`] = `0.5144439084448732`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPer/sec, "as" method 1`] = `0.0001429012`;
+exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPerSec, "as" method 1`] = `0.0001429012`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPer/sec, "in" method 1`] = `0.0001429012`;
+exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPerSec, "in" method 1`] = `0.0001429012`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPer/sec, "to" method 1`] = `0.0001429012`;
+exports[`mezur/acceleration.json converts from 1 knotsPerHour to metersPerSecPerSec, "to" method 1`] = `0.0001429012`;
 
 exports[`mezur/acceleration.json converts from 1 knotsPerHour to milePerHourPerHour, "as" method 1`] = `1.1507771102771829`;
 
@@ -4998,11 +4998,11 @@ exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerMi
 
 exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerMinPerMin, "to" method 1`] = `1851998.5184011837`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPer/sec, "as" method 1`] = `514.444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPerSec, "as" method 1`] = `514.444444444444`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPer/sec, "in" method 1`] = `514.444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPerSec, "in" method 1`] = `514.444444444444`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPer/sec, "to" method 1`] = `514.444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to metersPerSecPerSec, "to" method 1`] = `514.444444444444`;
 
 exports[`mezur/acceleration.json converts from 1 knotsPerMillisec to milePerHourPerHour, "as" method 1`] = `4142798.59914352`;
 
@@ -5208,11 +5208,11 @@ exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerMinPerM
 
 exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerMinPerMin, "to" method 1`] = `30.866641973353076`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPer/sec, "as" method 1`] = `0.00857407407407407`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPerSec, "as" method 1`] = `0.00857407407407407`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPer/sec, "in" method 1`] = `0.00857407407407407`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPerSec, "in" method 1`] = `0.00857407407407407`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPer/sec, "to" method 1`] = `0.00857407407407407`;
+exports[`mezur/acceleration.json converts from 1 knotsPerMin to metersPerSecPerSec, "to" method 1`] = `0.00857407407407407`;
 
 exports[`mezur/acceleration.json converts from 1 knotsPerMin to milePerHourPerHour, "as" method 1`] = `69.0466433190587`;
 
@@ -5418,11 +5418,11 @@ exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerMinPerM
 
 exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerMinPerMin, "to" method 1`] = `1851.9985184011837`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPer/sec, "as" method 1`] = `0.514444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPerSec, "as" method 1`] = `0.514444444444444`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPer/sec, "in" method 1`] = `0.514444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPerSec, "in" method 1`] = `0.514444444444444`;
 
-exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPer/sec, "to" method 1`] = `0.514444444444444`;
+exports[`mezur/acceleration.json converts from 1 knotsPerSec to metersPerSecPerSec, "to" method 1`] = `0.514444444444444`;
 
 exports[`mezur/acceleration.json converts from 1 knotsPerSec to milePerHourPerHour, "as" method 1`] = `4142.798599143521`;
 
@@ -5628,11 +5628,11 @@ exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersP
 
 exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerMinPerMin, "to" method 1`] = `0.00027777754177796656`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPer/sec, "as" method 1`] = `7.716049e-8`;
+exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPerSec, "as" method 1`] = `7.716049e-8`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPer/sec, "in" method 1`] = `7.716049e-8`;
+exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPerSec, "in" method 1`] = `7.716049e-8`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPer/sec, "to" method 1`] = `7.716049e-8`;
+exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to metersPerSecPerSec, "to" method 1`] = `7.716049e-8`;
 
 exports[`mezur/acceleration.json converts from 1 metersPerHourPerHour to milePerHourPerHour, "as" method 1`] = `0.0006213700494451514`;
 
@@ -5838,11 +5838,11 @@ exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPer
 
 exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerMinPerMin, "to" method 1`] = `1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPer/sec, "as" method 1`] = `0.000277778`;
+exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPerSec, "as" method 1`] = `0.000277778`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPer/sec, "in" method 1`] = `0.000277778`;
+exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPerSec, "in" method 1`] = `0.000277778`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPer/sec, "to" method 1`] = `0.000277778`;
+exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to metersPerSecPerSec, "to" method 1`] = `0.000277778`;
 
 exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to milePerHourPerHour, "as" method 1`] = `2.2369340785002176`;
 
@@ -5880,215 +5880,215 @@ exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to millimete
 
 exports[`mezur/acceleration.json converts from 1 metersPerMinPerMin to millimeterPerSecPerSec, "to" method 1`] = `0.277778`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigal, "as" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigal, "as" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigal, "in" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigal, "in" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigal, "to" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigal, "to" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigalileo, "as" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigalileo, "as" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigalileo, "in" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigalileo, "in" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centigalileo, "to" method 1`] = `10000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centigalileo, "to" method 1`] = `10000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centimeterPerSecPerSec, "as" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centimeterPerSecPerSec, "as" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centimeterPerSecPerSec, "in" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centimeterPerSecPerSec, "in" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to centimeterPerSecPerSec, "to" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to centimeterPerSecPerSec, "to" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerHour, "as" method 1`] = `42519682.360964894`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerHour, "as" method 1`] = `42519682.360964894`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerHour, "in" method 1`] = `42519682.360964894`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerHour, "in" method 1`] = `42519682.360964894`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerHour, "to" method 1`] = `42519682.360964894`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerHour, "to" method 1`] = `42519682.360964894`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerMin, "as" method 1`] = `708717.2218284905`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerMin, "as" method 1`] = `708717.2218284905`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerMin, "in" method 1`] = `708717.2218284905`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerMin, "in" method 1`] = `708717.2218284905`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourPerMin, "to" method 1`] = `708717.2218284905`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourPerMin, "to" method 1`] = `708717.2218284905`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourSec, "as" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourSec, "as" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourSec, "in" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourSec, "in" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerHourSec, "to" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerHourSec, "to" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinPerMin, "as" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinPerMin, "as" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinPerMin, "in" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinPerMin, "in" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinPerMin, "to" method 1`] = `11810.977122137316`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinPerMin, "to" method 1`] = `11810.977122137316`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinutePerSec, "as" method 1`] = `196.85039370078738`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinutePerSec, "as" method 1`] = `196.85039370078738`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinutePerSec, "in" method 1`] = `196.85039370078738`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinutePerSec, "in" method 1`] = `196.85039370078738`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerMinutePerSec, "to" method 1`] = `196.85039370078738`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerMinutePerSec, "to" method 1`] = `196.85039370078738`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerSecPerSec, "as" method 1`] = `3.280839895013123`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerSecPerSec, "as" method 1`] = `3.280839895013123`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerSecPerSec, "in" method 1`] = `3.280839895013123`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerSecPerSec, "in" method 1`] = `3.280839895013123`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to feetPerSecPerSec, "to" method 1`] = `3.280839895013123`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to feetPerSecPerSec, "to" method 1`] = `3.280839895013123`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gUnits, "as" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gUnits, "as" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gUnits, "in" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gUnits, "in" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gUnits, "to" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gUnits, "to" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gal, "as" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gal, "as" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gal, "in" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gal, "in" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gal, "to" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gal, "to" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to galileo, "as" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to galileo, "as" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to galileo, "in" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to galileo, "in" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to galileo, "to" method 1`] = `100`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to galileo, "to" method 1`] = `100`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gravity, "as" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gravity, "as" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gravity, "in" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gravity, "in" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to gravity, "to" method 1`] = `0.10197162129779283`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to gravity, "to" method 1`] = `0.10197162129779283`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerHour, "as" method 1`] = `510236101.55127084`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerHour, "as" method 1`] = `510236101.55127084`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerHour, "in" method 1`] = `510236101.55127084`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerHour, "in" method 1`] = `510236101.55127084`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerHour, "to" method 1`] = `510236101.55127084`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerHour, "to" method 1`] = `510236101.55127084`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerMin, "as" method 1`] = `8503936.472192978`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerMin, "as" method 1`] = `8503936.472192978`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerMin, "in" method 1`] = `8503936.472192978`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerMin, "in" method 1`] = `8503936.472192978`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerMin, "to" method 1`] = `8503936.472192978`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerMin, "to" method 1`] = `8503936.472192978`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerSecond, "as" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerSecond, "as" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerSecond, "in" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerSecond, "in" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerHourPerSecond, "to" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerHourPerSecond, "to" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerMin, "as" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerMin, "as" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerMin, "in" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerMin, "in" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerMin, "to" method 1`] = `141732.27453654964`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerMin, "to" method 1`] = `141732.27453654964`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerSec, "as" method 1`] = `2362.206584414633`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerSec, "as" method 1`] = `2362.206584414633`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerSec, "in" method 1`] = `2362.206584414633`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerSec, "in" method 1`] = `2362.206584414633`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerMinPerSec, "to" method 1`] = `2362.206584414633`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerMinPerSec, "to" method 1`] = `2362.206584414633`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerSecPerSec, "as" method 1`] = `39.37007874015748`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerSecPerSec, "as" method 1`] = `39.37007874015748`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerSecPerSec, "in" method 1`] = `39.37007874015748`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerSecPerSec, "in" method 1`] = `39.37007874015748`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to inchPerSecPerSec, "to" method 1`] = `39.37007874015748`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to inchPerSecPerSec, "to" method 1`] = `39.37007874015748`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogal, "as" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogal, "as" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogal, "in" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogal, "in" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogal, "to" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogal, "to" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogalileo, "as" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogalileo, "as" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogalileo, "in" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogalileo, "in" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilogalileo, "to" method 1`] = `0.1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilogalileo, "to" method 1`] = `0.1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilometerPerSecPerSec, "as" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilometerPerSecPerSec, "as" method 1`] = `0.001`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilometerPerSecPerSec, "in" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilometerPerSecPerSec, "in" method 1`] = `0.001`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to kilometerPerSecPerSec, "to" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to kilometerPerSecPerSec, "to" method 1`] = `0.001`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerHour, "as" method 1`] = `6997.841865568658`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerHour, "as" method 1`] = `6997.841865568658`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerHour, "in" method 1`] = `6997.841865568658`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerHour, "in" method 1`] = `6997.841865568658`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerHour, "to" method 1`] = `6997.841865568658`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerHour, "to" method 1`] = `6997.841865568658`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMillisec, "as" method 1`] = `0.0019438444924406064`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMillisec, "as" method 1`] = `0.0019438444924406064`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMillisec, "in" method 1`] = `0.0019438444924406064`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMillisec, "in" method 1`] = `0.0019438444924406064`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMillisec, "to" method 1`] = `0.0019438444924406064`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMillisec, "to" method 1`] = `0.0019438444924406064`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMin, "as" method 1`] = `116.63066954643632`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMin, "as" method 1`] = `116.63066954643632`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMin, "in" method 1`] = `116.63066954643632`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMin, "in" method 1`] = `116.63066954643632`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerMin, "to" method 1`] = `116.63066954643632`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerMin, "to" method 1`] = `116.63066954643632`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerSec, "as" method 1`] = `1.9438444924406062`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerSec, "as" method 1`] = `1.9438444924406062`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerSec, "in" method 1`] = `1.9438444924406062`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerSec, "in" method 1`] = `1.9438444924406062`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to knotsPerSec, "to" method 1`] = `1.9438444924406062`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to knotsPerSec, "to" method 1`] = `1.9438444924406062`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerHourPerHour, "as" method 1`] = `12960000.642816031`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerHourPerHour, "as" method 1`] = `12960000.642816031`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerHourPerHour, "in" method 1`] = `12960000.642816031`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerHourPerHour, "in" method 1`] = `12960000.642816031`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerHourPerHour, "to" method 1`] = `12960000.642816031`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerHourPerHour, "to" method 1`] = `12960000.642816031`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerMinPerMin, "as" method 1`] = `3599.9971200023037`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerMinPerMin, "as" method 1`] = `3599.9971200023037`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerMinPerMin, "in" method 1`] = `3599.9971200023037`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerMinPerMin, "in" method 1`] = `3599.9971200023037`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerMinPerMin, "to" method 1`] = `3599.9971200023037`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `3599.9971200023037`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerSecPer/sec, "as" method 1`] = `1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerSecPer/sec, "in" method 1`] = `1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to metersPerSecPer/sec, "to" method 1`] = `1`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `1`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milePerHourPerHour, "as" method 1`] = `8052.9562402357915`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milePerHourPerHour, "as" method 1`] = `8052.9562402357915`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milePerHourPerHour, "in" method 1`] = `8052.9562402357915`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milePerHourPerHour, "in" method 1`] = `8052.9562402357915`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milePerHourPerHour, "to" method 1`] = `8052.9562402357915`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milePerHourPerHour, "to" method 1`] = `8052.9562402357915`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerMinPerMin, "as" method 1`] = `2.2369362920544025`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerMinPerMin, "as" method 1`] = `2.2369362920544025`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerMinPerMin, "in" method 1`] = `2.2369362920544025`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerMinPerMin, "in" method 1`] = `2.2369362920544025`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerMinPerMin, "to" method 1`] = `2.2369362920544025`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerMinPerMin, "to" method 1`] = `2.2369362920544025`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerSecPerSec, "as" method 1`] = `0.0006213711922373339`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerSecPerSec, "as" method 1`] = `0.0006213711922373339`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerSecPerSec, "in" method 1`] = `0.0006213711922373339`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerSecPerSec, "in" method 1`] = `0.0006213711922373339`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milesPerSecPerSec, "to" method 1`] = `0.0006213711922373339`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milesPerSecPerSec, "to" method 1`] = `0.0006213711922373339`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligal, "as" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligal, "as" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligal, "in" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligal, "in" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligal, "to" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligal, "to" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligalileo , "as" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligalileo , "as" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligalileo , "in" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligalileo , "in" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to milligalileo , "to" method 1`] = `99999.99999999999`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to milligalileo , "to" method 1`] = `99999.99999999999`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to millimeterPerSecPerSec, "as" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to millimeterPerSecPerSec, "as" method 1`] = `1000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to millimeterPerSecPerSec, "in" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to millimeterPerSecPerSec, "in" method 1`] = `1000`;
 
-exports[`mezur/acceleration.json converts from 1 metersPerSecPer/sec to millimeterPerSecPerSec, "to" method 1`] = `1000`;
+exports[`mezur/acceleration.json converts from 1 metersPerSecPerSec to millimeterPerSecPerSec, "to" method 1`] = `1000`;
 
 exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to centigal, "as" method 1`] = `1.2417799999999999`;
 
@@ -6258,11 +6258,11 @@ exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPer
 
 exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerMinPerMin, "to" method 1`] = `0.44704044236764606`;
 
-exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPer/sec, "as" method 1`] = `0.000124178`;
+exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPerSec, "as" method 1`] = `0.000124178`;
 
-exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPer/sec, "in" method 1`] = `0.000124178`;
+exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPerSec, "in" method 1`] = `0.000124178`;
 
-exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPer/sec, "to" method 1`] = `0.000124178`;
+exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to metersPerSecPerSec, "to" method 1`] = `0.000124178`;
 
 exports[`mezur/acceleration.json converts from 1 milePerHourPerHour to milePerHourPerHour, "as" method 1`] = `1`;
 
@@ -6468,11 +6468,11 @@ exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerM
 
 exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerMinPerMin, "to" method 1`] = `1609.34271252583`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPer/sec, "as" method 1`] = `0.44704`;
+exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPerSec, "as" method 1`] = `0.44704`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPer/sec, "in" method 1`] = `0.44704`;
+exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPerSec, "in" method 1`] = `0.44704`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPer/sec, "to" method 1`] = `0.44704`;
+exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to metersPerSecPerSec, "to" method 1`] = `0.44704`;
 
 exports[`mezur/acceleration.json converts from 1 milesPerMinPerMin to milePerHourPerHour, "as" method 1`] = `3599.993557635008`;
 
@@ -6678,11 +6678,11 @@ exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerM
 
 exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `5793633.765092988`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `1609.344`;
+exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `1609.344`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `1609.344`;
+exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `1609.344`;
 
-exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `1609.344`;
+exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `1609.344`;
 
 exports[`mezur/acceleration.json converts from 1 milesPerSecPerSec to milePerHourPerHour, "as" method 1`] = `12959976.80748603`;
 
@@ -6888,11 +6888,11 @@ exports[`mezur/acceleration.json converts from 1 milligal to metersPerMinPerMin,
 
 exports[`mezur/acceleration.json converts from 1 milligal to metersPerMinPerMin, "to" method 1`] = `0.03599997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPer/sec, "as" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPerSec, "as" method 1`] = `0.00001`;
 
-exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPer/sec, "in" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPerSec, "in" method 1`] = `0.00001`;
 
-exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPer/sec, "to" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligal to metersPerSecPerSec, "to" method 1`] = `0.00001`;
 
 exports[`mezur/acceleration.json converts from 1 milligal to milePerHourPerHour, "as" method 1`] = `0.08052956240235792`;
 
@@ -7098,11 +7098,11 @@ exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerMinPe
 
 exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerMinPerMin, "to" method 1`] = `0.03599997120002304`;
 
-exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPer/sec, "as" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPerSec, "as" method 1`] = `0.00001`;
 
-exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPer/sec, "in" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPerSec, "in" method 1`] = `0.00001`;
 
-exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPer/sec, "to" method 1`] = `0.00001`;
+exports[`mezur/acceleration.json converts from 1 milligalileo  to metersPerSecPerSec, "to" method 1`] = `0.00001`;
 
 exports[`mezur/acceleration.json converts from 1 milligalileo  to milePerHourPerHour, "as" method 1`] = `0.08052956240235792`;
 
@@ -7308,11 +7308,11 @@ exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to meter
 
 exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerMinPerMin, "to" method 1`] = `3.5999971200023038`;
 
-exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPer/sec, "as" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPerSec, "as" method 1`] = `0.001`;
 
-exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPer/sec, "in" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPerSec, "in" method 1`] = `0.001`;
 
-exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPer/sec, "to" method 1`] = `0.001`;
+exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to metersPerSecPerSec, "to" method 1`] = `0.001`;
 
 exports[`mezur/acceleration.json converts from 1 millimeterPerSecPerSec to milePerHourPerHour, "as" method 1`] = `8.052956240235792`;
 
