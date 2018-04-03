@@ -140,7 +140,7 @@
     "value": "0.000277778mpsps"
   },
   {
-    "name": "metersPerSecPer/sec",
+    "name": "metersPerSecPerSec",
     "symbol": "mpsps",
     "value": "1"
   },

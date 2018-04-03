@@ -86,7 +86,7 @@ of your other important code. I believe that `hours(5).inSeconds()` do just that
 |knotsPerSec|knpsps|0.514444444444444mpsps|
 |metersPerHourPerHour|mphph|0.00000007716049mpsps|
 |metersPerMinPerMin|mpmpm|0.000277778mpsps|
-|metersPerSecPer/sec|mpsps|1|
+|metersPerSecPerSec|mpsps|1|
 |milePerHourPerHour|miphph|0.000124178mpsps|
 |milesPerMinPerMin|mipmpm|0.44704mpsps|
 |milesPerSecPerSec|mipsps|1609.344mpsps|
