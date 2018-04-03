@@ -28,6 +28,7 @@ describe('extend units', () => {
   it('uses the new time units', () => {
     const marsUnits = [
       { name: 'martianDay', symbol: 'marsd', value: '24h + 39m + 35.244s' },
+      { name: 'martianWeek', symbol: 'marsw', value: '7marsd' },
       { name: 'martianYear', symbol: 'marsY', value: '668.5991marsd' }
     ]
 
@@ -36,6 +37,7 @@ describe('extend units', () => {
     const marsTime = require('.')(timeUnits.concat(marsUnits))
 
     expect(marsTime.martianYears(1).inMartianDays()).toEqual(668.5991)
+    expect(marsTime.martianDays(14).inMartianWeeks()).toEqual(2)
     expect(marsTime.martianYears(1).inSeconds()).toEqual(59355048.240680404)
   })
 })

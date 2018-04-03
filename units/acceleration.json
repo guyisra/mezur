@@ -1,0 +1,177 @@
+[
+  {
+    "name": "feetPerHourPerMin",
+    "symbol": "fphpmin",
+    "value": "0.000001411mpsps"
+  },
+  {
+    "name": "feetPerHourSec",
+    "symbol": "fphps",
+    "value": "0.000084667mpsps"
+  },
+  {
+    "name": "feetPerMinutePerSec",
+    "symbol": "fpmps",
+    "value": "0.00508mpsps"
+  },
+  {
+    "name": "feetPerHourPerHour",
+    "symbol": "ftphph",
+    "value": "0.00000002351852mpsps"
+  },
+  {
+    "name": "feetPerMinPerMin",
+    "symbol": "ftpmpm",
+    "value": "0.000084667mpsps"
+  },
+  {
+    "name": "feetPerSecPerSec",
+    "symbol": "ftpsps",
+    "value": "0.3048mpsps"
+  },
+  {
+    "name": "gal",
+    "symbol": "gal",
+    "value": "0.01mpsps"
+  },
+  {
+    "name": "milligal",
+    "symbol": "mgal",
+    "value": "0.00001mpsps"
+  },
+  {
+    "name": "centigal",
+    "symbol": "cgal",
+    "value": "0.0001mpsps"
+  },
+  {
+    "name": "kilogal",
+    "symbol": "kgal",
+    "value": "10mpsps"
+  },
+  {
+    "name": "galileo",
+    "symbol": "gali",
+    "value": "0.01mpsps"
+  },
+  {
+    "name": "milligalileo ",
+    "symbol": "mgali",
+    "value": "0.00001mpsps"
+  },
+  {
+    "name": "centigalileo",
+    "symbol": "cgali",
+    "value": "0.0001mpsps"
+  },
+  {
+    "name": "kilogalileo",
+    "symbol": "kgali",
+    "value": "10mpsps"
+  },
+  {
+    "name": "gravity",
+    "symbol": "g",
+    "value": "9.80665mpsps"
+  },
+  {
+    "name": "gUnits",
+    "symbol": "gu",
+    "value": "9.80665mpsps"
+  },
+  {
+    "name": "inchPerHourPerMin",
+    "symbol": "iphpm",
+    "value": "0.0000001175926mpsps"
+  },
+  {
+    "name": "inchPerHourPerSecond",
+    "symbol": "iphps",
+    "value": "0.000007055556mpsps"
+  },
+  {
+    "name": "inchPerMinPerSec",
+    "symbol": "ipmps",
+    "value": "0.000423333mpsps"
+  },
+  {
+    "name": "inchPerHourPerHour",
+    "symbol": "inphph",
+    "value": "0.000000001959877mpsps"
+  },
+  {
+    "name": "inchPerMinPerMin",
+    "symbol": "inpmpm",
+    "value": "0.000007055556mpsps"
+  },
+  {
+    "name": "inchPerSecPerSec",
+    "symbol": "inpsps",
+    "value": "0.0254mpsps"
+  },
+  {
+    "name": "knotsPerHour",
+    "symbol": "knphph",
+    "value": "0.0001429012mpsps"
+  },
+  {
+    "name": "knotsPerMin",
+    "symbol": "knpmpm",
+    "value": "0.00857407407407407mpsps"
+  },
+  {
+    "name": "knotsPerSec",
+    "symbol": "knpsps",
+    "value": "0.514444444444444mpsps"
+  },
+  {
+    "name": "knotsPerMillisec",
+    "symbol": "knpmspms",
+    "value": "514.444444444444mpsps"
+  },
+  {
+    "name": "metersPerHourPerHour",
+    "symbol": "mphph",
+    "value": "0.00000007716049mpsps"
+  },
+  {
+    "name": "metersPerMinPerMin",
+    "symbol": "mpmpm",
+    "value": "0.000277778mpsps"
+  },
+  {
+    "name": "metersPerSecPer/sec",
+    "symbol": "mpsps",
+    "value": "1"
+  },
+  {
+    "name": "millimeterPerSecPerSec",
+    "symbol": "mmpsps",
+    "value": "0.001mpsps"
+  },
+  {
+    "name": "centimeterPerSecPerSec",
+    "symbol": "cmpsps",
+    "value": "0.01mpsps"
+  },
+  {
+    "name": "kilometerPerSecPerSec",
+    "symbol": "kmpsps",
+    "value": "1000mpsps"
+  },
+  {
+    "name": "milePerHourPerHour",
+    "symbol": "miphph",
+    "value": "0.000124178mpsps"
+  },
+  {
+    "name": "milesPerMinPerMin",
+    "symbol": "mipmpm",
+    "value": "0.44704mpsps"
+  },
+  {
+    "name": "milesPerSecPerSec",
+    "symbol": "mipsps",
+    "value": "1609.344mpsps"
+  }
+]

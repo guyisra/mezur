@@ -54,84 +54,125 @@ Building this is with intent to provide as much flexibility and extendability as
 an easy-on-the-eyes usage, since you want to an easy and reliable API when converting, so it won't get in the way
 of your other important code. I believe that `hours(5).inSeconds()` do just that (to as much as javascript can give)
 # Supported Conversions
+## Acceleration 
+
+|name|symbol|value|
+|----|----|----|
+|centigal|cgal|0.0001mpsps|
+|centigalileo|cgali|0.0001mpsps|
+|centimeterPerSecPerSec|cmpsps|0.01mpsps|
+|feetPerHourPerHour|ftphph|0.00000002351852mpsps|
+|feetPerHourPerMin|fphpmin|0.000001411mpsps|
+|feetPerHourSec|fphps|0.000084667mpsps|
+|feetPerMinPerMin|ftpmpm|0.000084667mpsps|
+|feetPerMinutePerSec|fpmps|0.00508mpsps|
+|feetPerSecPerSec|ftpsps|0.3048mpsps|
+|gUnits|gu|9.80665mpsps|
+|gal|gal|0.01mpsps|
+|galileo|gali|0.01mpsps|
+|gravity|g|9.80665mpsps|
+|inchPerHourPerHour|inphph|0.000000001959877mpsps|
+|inchPerHourPerMin|iphpm|0.0000001175926mpsps|
+|inchPerHourPerSecond|iphps|0.000007055556mpsps|
+|inchPerMinPerMin|inpmpm|0.000007055556mpsps|
+|inchPerMinPerSec|ipmps|0.000423333mpsps|
+|inchPerSecPerSec|inpsps|0.0254mpsps|
+|kilogal|kgal|10mpsps|
+|kilogalileo|kgali|10mpsps|
+|kilometerPerSecPerSec|kmpsps|1000mpsps|
+|knotsPerHour|knphph|0.0001429012mpsps|
+|knotsPerMillisec|knpmspms|514.444444444444mpsps|
+|knotsPerMin|knpmpm|0.00857407407407407mpsps|
+|knotsPerSec|knpsps|0.514444444444444mpsps|
+|metersPerHourPerHour|mphph|0.00000007716049mpsps|
+|metersPerMinPerMin|mpmpm|0.000277778mpsps|
+|metersPerSecPer/sec|mpsps|1|
+|milePerHourPerHour|miphph|0.000124178mpsps|
+|milesPerMinPerMin|mipmpm|0.44704mpsps|
+|milesPerSecPerSec|mipsps|1609.344mpsps|
+|milligal|mgal|0.00001mpsps|
+|milligalileo |mgali|0.00001mpsps|
+|millimeterPerSecPerSec|mmpsps|0.001mpsps|
+
+
 ## Angles 
 
 |name|symbol|value|
 |----|----|----|
-|degree|deg|1|
-|radian|rad|1deg * 180/3.141592653589793|
-|gradian|grad|0.9deg|
-|milliradian|mrad|0.001rad|
 |arcMinute|arcmin|1deg / 60|
 |arcSecond|arcsec|1deg / 3600|
-|turn|tr|360deg|
-|quadrant|qd|90deg|
-|sextant|sxt|60deg|
+|degree|deg|1|
+|gradian|grad|0.9deg|
 |hourAngle|hrang|15deg|
+|milliradian|mrad|0.001rad|
+|quadrant|qd|90deg|
+|radian|rad|1deg * 180/3.141592653589793|
+|sextant|sxt|60deg|
+|turn|tr|360deg|
 
 
 ## Area 
 
 |name|symbol|value|
 |----|----|----|
-|squareMeter|sqm|1|
-|squareKilometer|sqkm|1000000sqm|
-|hectare|ha|10000|
-|decare|daa|100sqm|
-|are|a|100sqm|
-|deciare|da|10sqm|
-|centiare|ca|0.1sqm|
 |acre|acre|4046.856430051sqm|
+|are|a|100sqm|
 |cent|cn|40.468564301sqm|
-|squareYard|sqy|.836127392sqm|
+|centiare|ca|0.1sqm|
+|decare|daa|100sqm|
+|deciare|da|10sqm|
+|hectare|ha|10000|
 |squareFeet|sqft|0.092903035sqm|
 |squareInch|sqin|0.00064516sqm|
+|squareKilometer|sqkm|1000000sqm|
+|squareMeter|sqm|1|
+|squareYard|sqy|.836127392sqm|
 
 
 ## Length 
 
 |name|symbol|value|
 |----|----|----|
-|nanometer|nm|0.001mcm|
-|micrometer|mcm|0.001mm|
-|millimeter|mm|0.01cm|
 |centimeter|cm|0.01m|
-|meter|m|1|
-|kilometer|km|1000m|
-|yard|yard|0.9144m|
-|inch|in|0.0254m|
-|mile|ml|1.609344km|
-|nauticalMile|nml|1.852km|
 |feet|ft|12in|
+|inch|in|0.0254m|
+|kilometer|km|1000m|
+|meter|m|1|
+|micrometer|mcm|0.001mm|
+|mile|ml|1.609344km|
+|millimeter|mm|0.01cm|
+|nanometer|nm|0.001mcm|
+|nauticalMile|nml|1.852km|
+|yard|yard|0.9144m|
 
 
 ## Mass 
 
 |name|symbol|value|
 |----|----|----|
+|carat|ct|0.2g|
+|grain|gr|0.06479891g|
 |gram|g|1|
+|imperialTon|impT|1016.05kg|
+|jin|jin|0.002g|
+|kilogram|kg|1000g|
 |microgram|mcg|0.000001g|
 |milligram|mg|0.001g|
-|kilogram|kg|1000g|
-|grain|gr|0.06479891g|
 |ounce|oz|28.349523125g|
 |pound|lb|453.59237g|
-|carat|ct|0.2g|
-|jin|jin|0.002g|
-|ton|T|1000000g|
-|imperialTon|impT|1016.05kg|
-|usTon|usT|907.18474kg|
 |stone|st|6.35029318kg|
+|ton|T|1000000g|
+|usTon|usT|907.18474kg|
 
 
 ## Pressure 
 
 |name|symbol|value|
 |----|----|----|
-|bar|bar|1|
-|psi|psi|0.06894757293bar|
 |atmosphere|atm|1.01325000bar|
+|bar|bar|1|
 |pascal|pas|0.00001bar|
+|psi|psi|0.06894757293bar|
 |torr|tr|0.001333223684bar|
 
 
@@ -139,21 +180,21 @@ of your other important code. I believe that `hours(5).inSeconds()` do just that
 
 |name|symbol|value|
 |----|----|----|
-|millisecond|ms|0.001s|
+|century|C|10D|
+|day|d|24h|
+|decade|D|10Y|
+|gigasecond|Gs|31Y + 287d|
 |hectosecond|hs|1m + 40s|
+|hour|h|60m|
 |killosecond|ks|16m + 40s|
 |megasecond|Ms|11d + 13h + 46m + 40s|
-|gigasecond|Gs|31Y + 287d|
-|terasecond|Ts|31600Y|
-|second|s|1|
+|millisecond|ms|0.001s|
 |minute|m|60s|
-|hour|h|60m|
-|day|d|24h|
-|week|w|7d|
 |month|M|31d|
+|second|s|1|
+|terasecond|Ts|31600Y|
+|week|w|7d|
 |year|Y|365d|
-|decade|D|10Y|
-|century|C|10D|
 
 
 

@@ -3,6 +3,7 @@ coverage/
 node_modules/*
 yarn-error.log
 
+acceleration/
 angles/
 length/
 mass/
